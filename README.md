@@ -5,8 +5,12 @@
 ---
 
 ### 🎬 The Vision (Executive Summary)
-![Overseer-OS Master Trailer](https://raw.githubusercontent.com/atillayalcin-dev/atillayalcin.github.io/main/Overseer-OS.mp4)
-*(Note: Use the direct link to your mp4 file for autoplay compatibility on GitHub)*
+
+<div align="center">
+  <video src="https://github.com/yalcinatilla-dev/overseer-os/raw/main/Overseer-OS.mp4" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
