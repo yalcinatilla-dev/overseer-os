@@ -10,8 +10,7 @@
 ### 🎬 The Vision (Executive Summary)
 
 <p align="center">
-  <video src="https://github.com/yalcinatilla-dev/overseer-os/raw/main/Overseer-OS.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag.
+  <video src="https://github.com/yalcinatilla-dev/overseer-os/blob/main/Overseer-OS.mp4?raw=true" width="100%" controls autoplay muted loop>
   </video>
 </p>
 
