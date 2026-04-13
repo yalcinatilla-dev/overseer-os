@@ -11,10 +11,9 @@
 
 ### 🎬 The Vision (Executive Summary)
 
-<p align="center">
-  <video src="https://github.com/yalcinatilla-dev/overseer-os/blob/main/Overseer-OS.mp4?raw=true" width="100%" controls autoplay muted loop>
-  </video>
-</p>
+[![Overseer-OS Master Trailer](https://raw.githubusercontent.com/yalcinatilla-dev/atillayalcin.github.io/main/atilla.jpg)](https://youtu.be/q5Osp6IgO9Q)
+
+> 👆 **Click the image above** to watch the full Overseer-OS architectural vision video.
 
 > **Note:** Invest in the Future of Trust. Overseer-OS is a state-of-the-art orchestration layer that ensures AI outputs are audited, refined, and verified before they reach the end-user.
 
