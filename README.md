@@ -10,7 +10,9 @@
 ### 🎬 The Vision (Executive Summary)
 
 <p align="center">
-  <video src="https://github.com/yalcinatilla-dev/overseer-os/blob/main/Overseer-OS.mp4?raw=true" width="100%" controls autoplay muted loop>
+  
+
+
   </video>
 </p>
 
