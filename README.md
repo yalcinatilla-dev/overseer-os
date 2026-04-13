@@ -11,7 +11,7 @@
 
 ### 🎬 The Vision (Executive Summary)
 
-[![Overseer-OS Master Trailer](https://raw.githubusercontent.com/yalcinatilla-dev/atillayalcin.github.io/main/Overseer-OS Kapak.jpg)](https://youtu.be/q5Osp6IgO9Q)
+[![Overseer-OS Master Trailer](https://raw.githubusercontent.com/yalcinatilla-dev/atillayalcin.github.io/main/Overseer-OS.jpg)](https://youtu.be/q5Osp6IgO9Q)
 
 > 👆 **Click the image above** to watch the full Overseer-OS architectural vision video.
 
